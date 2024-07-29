@@ -1,15 +1,4 @@
-![](https://github.com/TirendazAcademy/PANDAS-TUTORIAL/blob/main/Images/pandas_turoial.png?raw=true)
-
-[![](https://img.shields.io/badge/Python-maroon.svg?&logo=python&logoColor=white)](https://python.org) [![](https://img.shields.io/badge/Pandas-navy.svg?&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![](https://img.shields.io/badge/Matplotlib-purple.svg?&logo=matplotlib&logoColor=white)](https://pandas.pydata.org/) [![](https://img.shields.io/badge/Seaborn-darkgreen.svg?&logo=seaborn&logoColor=white)](https://pandas.pydata.org/)
-
-Welcome to the Python Pandas tutorial! In this tutorial, you will learn how to work with the Pandas library, a powerful and easy-to-use data analysis toolkit for Python. Whether you're a beginner or an experienced data analyst, this tutorial will provide you with a comprehensive introduction to the Pandas library and its features. Through clear explanations and practical examples, you'll learn how to manipulate, visualize, and analyze data using Pandas. Feel free to download and experiment with the code as you follow along. Let's get started!
-
-*Pandas* is a Python library used for working with datasets. It is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool. Pandas has data structures for data analysis. The most commonly used data structures are Series and DataFrame. Series is one-dimensional. It consists of one column. DataFrame is two dimensional. It consists of rows and columns.
-
-To install Pandas, use `pip install pandas`
-
-If you like this repo, give me a star ✨ and share 😊
-
+Next part of pandas from here(i.e from Sorting and Ranking in Pandas)
 
 ## Medium 👉  [![](https://img.shields.io/badge/Medium-English-orange.svg?&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 
@@ -39,34 +28,3 @@ If you like this repo, give me a star ✨ and share 😊
 - [Data Visualization with Pandas - 1](https://levelup.gitconnected.com/data-visualization-with-pandas-in-action-1-98582b69ee8b?source=your_stories_page-------------------------------------)
 - [Data Visualization with Pandas - 2](https://levelup.gitconnected.com/data-visualization-with-pandas-in-action-part-2-2cc8674da1d0?source=your_stories_page-------------------------------------)
 
-## YouTube 👉  [![](https://img.shields.io/badge/YouTube-Turkish-deeppink?&logo=youtube&logoColor=white)](https://www.youtube.com/tirendazakademi)
-
-- [Introduction to the Pandas](https://www.youtube.com/watch?v=IY0W0FmqBfo&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=1)
-- [Indexing-Selection-Filtering in Pandas](https://www.youtube.com/watch?v=zfyXuRXnrrw&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=5)
-- [Important Methods in Pandas](https://www.youtube.com/watch?v=YWZ07zHHqeo&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=6)
-- [Arithmetic Operations in Pandas](https://www.youtube.com/watch?v=g_pNFuJ-kPg&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=7)
-- [Sorting and Ranking in Pandas](https://www.youtube.com/watch?v=AKZ5QsuABxM&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=8)
-- [Summarizing And Computing Descriptive Statistics in Pandas](https://www.youtube.com/watch?v=qQ0twBuNLbk&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=9)
-- [Reading and Writing Data in Pandas](https://www.youtube.com/watch?v=7l17LUZkIO0&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=10)
-- [How to Fix Missing Data in Pandas](https://www.youtube.com/watch?v=ety3Bhpt1po&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=11)
-- [Data Transformation in Pandas](https://www.youtube.com/watch?v=i_LS7MUZeZg&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=12)
-- [Hierarchical Indexing in Pandas](https://www.youtube.com/watch?v=CSW5uFoeCtw&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=16)
-- [Combining And Merging Datasets in Pandas](https://www.youtube.com/watch?v=LwLgjHHN6Zs&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=17)
-- [Reshaping And Pivoting in Pandas](https://www.youtube.com/watch?v=W-5nFcEuauY&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=19)
-- [Groupby in Pandas](https://www.youtube.com/watch?v=VF4klkjuNsQ&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=20)
-- [Working With Groupby in Pandas](https://www.youtube.com/watch?v=lpR9PBbrG3E&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=22)
-- [Pivot Tables in Pandas](https://www.youtube.com/watch?v=QrMGryiXyFk&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=23)
-- [Categorical Data in Pandas](https://www.youtube.com/watch?v=_dxDrweUlqw&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=24)
-- [Working With Text Data in Pandas](https://www.youtube.com/watch?v=NULt_DdIOgU&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=14)
-- [Practical Data Analysis with Pandas](https://www.youtube.com/watch?v=K_MPtjQpI4g&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=26)
-- [Multiple Selecting-Filtering in Pandas](https://www.youtube.com/watch?v=ISmf78yjgPU&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=15)
-- [Time Series Basics with Pandas](https://www.youtube.com/watch?v=0vlaJvi_FsU&list=PLfMRLSpipmftDT2AsTrAR927QsZ9XTPhU&index=1)
-- [Working with Indexes in Time Series](https://www.youtube.com/watch?v=fj2lhwoV6wE&list=PLfMRLSpipmftDT2AsTrAR927QsZ9XTPhU&index=2)
-- [Working with Time Series](https://www.youtube.com/watch?v=fjkAXPg-MVk&list=PLfMRLSpipmftDT2AsTrAR927QsZ9XTPhU&index=3)
-- [Important Methods for Time Series in Pandas](https://www.youtube.com/watch?v=pPwgy5N4gzs&list=PLfMRLSpipmftDT2AsTrAR927QsZ9XTPhU&index=4)
-- [Data Visualization with Pandas - 1](https://www.youtube.com/watch?v=s4ZqzFDDJDM&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=29)
-- [Data Visualization with Pandas - 2](https://www.youtube.com/watch?v=I49cJgWWKf4&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=30)
-- [Pandas ile Veri Analizi](https://www.youtube.com/watch?v=UMu_FPeVELk&t=14s)
-- [Pandas Tutorial](https://www.youtube.com/watch?v=xv-1ax50BKM)
-
-Happy learning ... ✌️ 
