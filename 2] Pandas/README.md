@@ -1,6 +1,6 @@
 Next part of pandas from here(i.e from Sorting and Ranking in Pandas)
 
-## Medium 👉  [![](https://img.shields.io/badge/Medium-English-orange.svg?&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
+
 
 - [Introduction to the Pandas](https://ai.plainenglish.io/introduction-to-the-pandas-library-a3a557c8d094?source=your_stories_page-------------------------------------)
 - [Indexing-Selection-Filtering in Pandas](https://ai.plainenglish.io/indexing-selection-filtering-in-pandas-library-20d3fe4a6d71?source=your_stories_page-------------------------------------)
